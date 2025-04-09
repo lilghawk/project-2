@@ -1,6 +1,4 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-
 
 body {
   font-family: 'Roboto', 'Georgia', serif;
@@ -10,13 +8,11 @@ body {
   padding: 0 1rem;
 }
 
-
 header {
   text-align: center;
   background-color: #eaeaea;
   padding: 2rem 0;
 }
-
 
 nav ul {
   display: flex;
@@ -27,20 +23,17 @@ nav ul {
   padding: 0;
 }
 
-
 nav a {
   text-decoration: none;
-  color: #333;
+  color: #ff69b4; 
   font-weight: bold;
 }
 
-
 h1, h2 {
-  font-family: Georgia, serif; 
-  color: #2c3e50;
+  font-family: Georgia, serif;
+  color: #ff69b4; 
   margin-bottom: 0.5rem;
 }
-
 
 section {
   background-color: #fff;
@@ -49,7 +42,6 @@ section {
   border-radius: 0.5rem;
 }
 
-
 p, li {
   font-size: 1rem;
   line-height: 1.5rem;
@@ -57,5 +49,4 @@ p, li {
 }
 
 a {
-  color: #2980b9;
-}
+  color: #ff69b4; 
