@@ -29,6 +29,10 @@ nav a {
   font-weight: bold;
 }
 
+nav a:hover {
+  color: #ec407a; 
+}
+
 h1, h2 {
   font-family: Georgia, serif;
   color: #ff69b4; 
@@ -50,3 +54,4 @@ p, li {
 
 a {
   color: #ff69b4; 
+}
